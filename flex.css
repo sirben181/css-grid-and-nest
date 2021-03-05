@@ -1,24 +1,3 @@
-/*.aligner{display:flex;
-	align-items:center;
-justify-content:flex-end;
-flex-direction:column;
-}
-.aligner-item-1{max-width:4rem;
-color:#fff;
-background:#003;}
-.aligner-item-2{max-width:500px;
-color:#fff;
-background:#006;}
-.aligner-item-3{max-width:500px;
-color:#fff;
-background:#009;}
-.aligner-item-4{max-width:500px;
-color:#fff;
-background:#090;}
-.aligner-item-5{max-width:500px;
-color:#fff;
-background:#096;}
-*/
 .circle{background:pink;
 width:300px;
 height:300px;
